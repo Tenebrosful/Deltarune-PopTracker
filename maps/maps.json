@@ -1,13 +1,13 @@
 [
     {
         "name": "overview",
-        "location_size": 20,
+        "location_size": 15,
         "location_border_thickness": 2,
         "img": "images/maps/overview.png"
     },
     {
         "name": "castletownchapter4",
-        "location_size": 20,
+        "location_size": 15,
         "location_border_thickness": 2,
         "img": "images/maps/castletownchapter4.png"
     },
