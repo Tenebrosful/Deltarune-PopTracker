@@ -298,7 +298,7 @@
     {
         "name": "whiteribbon",
         "type": "toggle",
-        "img": "images/items/ribbon.png",
+        "img": "images/items/whiteribbon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "whiteribbon"
@@ -870,7 +870,7 @@
     {
         "name": "pinkribbon",
         "type": "toggle",
-        "img": "images/items/ribbon.png",
+        "img": "images/items/pinkribbon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "pinkribbon"
