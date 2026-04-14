@@ -1,8 +1,8 @@
 [
     {
         "name": "CH2",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        
+        
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Castle Town",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -65,8 +65,8 @@
             },
             {
                 "name": "Cyber Field",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -138,8 +138,8 @@
             },
             {
                 "name": "Trash Zone",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -169,8 +169,8 @@
             },
             {
                 "name": "Cyber City",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -296,8 +296,8 @@
             },
             {
                 "name": "Mansion",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -375,8 +375,8 @@
             },
             {
                 "name": "Cyber World",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

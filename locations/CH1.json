@@ -1,17 +1,13 @@
 [
     {
         "name": "CH1",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "chapter1unlock"
         ],
         "children": [
             {
-                "name": "",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "name": "???",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -28,15 +24,17 @@
                     {
                         "map": "CH1",
                         "x": 1940,
-                        "y": 1716,
-                        "size": 6
+                        "y": 1716
+                    },
+                    {
+                        "map": "overview",
+                        "x": 150,
+                        "y": 150
                     }
                 ]
             },
             {
                 "name": "Castle Town",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -55,13 +53,16 @@
                         "x": 2428,
                         "y": 1513,
                         "size": 6
+                    },
+                    {
+                        "map": "overview",
+                        "x": 150,
+                        "y": 350
                     }
                 ]
             },
             {
                 "name": "Field",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -99,7 +100,9 @@
                     },
                     {
                         "name": "Return Top Cake",
-                        "access_rules": [],
+                        "access_rules": [
+                            "topcake"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -124,17 +127,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "CH1",
-                        "x": 1571,
-                        "y": 1633,
-                        "size": 6
+                        "map": "overview",
+                        "x": 150,
+                        "y": 560
                     }
                 ]
             },
             {
-                "name": "Seams Seap",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "name": "Seams' Seap",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -145,21 +145,44 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Seams Seap 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Seams Seap 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Seams Seap 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Seams Seap 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "CH1",
-                        "x": 271,
-                        "y": 1361,
-                        "size": 6
+                        "map": "overview",
+                        "x": 240,
+                        "y": 500
                     }
                 ]
             },
             {
                 "name": "Forest",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -219,8 +242,8 @@
             },
             {
                 "name": "Bake Sale",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -274,8 +297,8 @@
             },
             {
                 "name": "Card Castle",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -334,26 +357,31 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    }
-                ],
-                "map_locations": [
+                    },
                     {
-                        "map": "CH1",
-                        "x": 359,
-                        "y": 54,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Card Kingdom",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
+                        "name": "Rouxls Shop 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rouxls Shop 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rouxls Shop 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rouxls Shop 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Fountain Sealed",
                         "access_rules": [],
@@ -364,8 +392,8 @@
                 "map_locations": [
                     {
                         "map": "CH1",
-                        "x": 1120,
-                        "y": 420,
+                        "x": 359,
+                        "y": 54,
                         "size": 6
                     }
                 ]
@@ -374,65 +402,18 @@
         "sections": [
             {
                 "name": "Throw Away Manual",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Seams Seap 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Seams Seap 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Seams Seap 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Seams Seap 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Rouxls Shop 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Rouxls Shop 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Rouxls Shop 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Rouxls Shop 4",
-                "access_rules": [],
+                "access_rules": [
+                    "manual"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }
         ],
         "map_locations": [
             {
-                "map": "CH1",
-                "x": 1433,
-                "y": 1902,
-                "size": 6
+                "map": "overview",
+                "x": 150,
+                "y": 80
             }
         ]
     }

@@ -3,43 +3,56 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Fusions",
+                "title": "Overview",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Fusions"
+                        "overview"
                     ]
                 }
             },
             {
-                "title": "CH4",
+                "title": "Cross Chapter",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "castletownchapter4"
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "chapter1"
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 2",
                 "content": {
                     "type": "map",
                     "maps": [
                         "CH4"
                     ]
                 }
-            }
-        ]
-    },
-    "tabbed_maps_vertical": {
-        "type": "tabbed",
-        "tabs": [
+            },
             {
-                "title": "Fusions",
+                "title": "Chapter 3",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Fusions"
+                        ""
                     ]
                 }
             },
             {
-                "title": "CH4",
+                "title": "Chapter 4",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "CH4"
+                        ""
                     ]
                 }
             }
