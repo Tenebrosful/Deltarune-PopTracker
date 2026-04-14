@@ -1,6 +1,6 @@
 [
     {
-        "name": "Castle Town",
+        "name": "Fusions",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
@@ -47,7 +47,7 @@
         ],
         "map_locations": [
             {
-                "map": "Castle Town",
+                "map": "Fusions",
                 "x": 2204,
                 "y": 1013,
                 "size": 6

@@ -3,6 +3,15 @@
         "type": "tabbed",
         "tabs": [
             {
+                "title": "Fusions",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fusions"
+                    ]
+                }
+            },
+            {
                 "title": "CH4",
                 "content": {
                     "type": "map",
@@ -16,6 +25,15 @@
     "tabbed_maps_vertical": {
         "type": "tabbed",
         "tabs": [
+            {
+                "title": "Fusions",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fusions"
+                    ]
+                }
+            },
             {
                 "title": "CH4",
                 "content": {

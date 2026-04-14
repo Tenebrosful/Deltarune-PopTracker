@@ -298,7 +298,7 @@
     {
         "name": "whiteribbon",
         "type": "toggle",
-        "img": "images/items/whiteribbon.png",
+        "img": "images/items/ribbon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "whiteribbon"
@@ -384,7 +384,7 @@
     {
         "name": "twinribbon",
         "type": "toggle",
-        "img": "images/items/twinribbon.png",
+        "img": "images/items/ribbon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "twinribbon"
@@ -870,7 +870,7 @@
     {
         "name": "pinkribbon",
         "type": "toggle",
-        "img": "images/items/pinkribbon.png",
+        "img": "images/items/ribbon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "pinkribbon"
@@ -948,7 +948,7 @@
     {
         "name": "blueribbon",
         "type": "toggle",
-        "img": "images/items/blueribbon.png",
+        "img": "images/items/ribbon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blueribbon"
