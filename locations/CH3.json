@@ -1,8 +1,8 @@
 [
     {
         "name": "CH3",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        
+        
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Couch Cliffs",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -41,8 +41,8 @@
             },
             {
                 "name": "Board 1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -96,8 +96,8 @@
             },
             {
                 "name": "Green Room",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -181,8 +181,8 @@
             },
             {
                 "name": "B-Rank Room",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -230,8 +230,8 @@
             },
             {
                 "name": "S-Rank Room",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -291,8 +291,8 @@
             },
             {
                 "name": "Board 2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -352,8 +352,8 @@
             },
             {
                 "name": "TV World",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -485,8 +485,8 @@
             },
             {
                 "name": "MANTLE",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -522,8 +522,8 @@
             },
             {
                 "name": "Cold Place",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                
+                
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

@@ -1,8 +1,6 @@
 [
     {
         "name": "Fusions",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -22,24 +20,58 @@
             },
             {
                 "name": "Twin Ribbon Fusion",
-                "access_rules": [],
+                "access_rules": [
+                    "pinkribbon",
+                    "whiteribbon"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Spike Band Fusion",
-                "access_rules": [],
+                "access_rules": [
+                    "ironshackle",
+                    "glowwist"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "TensionBow Fusion",
-                "access_rules": [],
+                "access_rules": [
+                    "bshotbowtie",
+                    "tensionbit"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "TwistedSwd Fusion",
+                "access_rules": [
+                    "thornring",
+                    "purecrystal"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "castletownchapter4",
+                "x": 982,
+                "y": 194
+            }
+        ]
+    },
+    {
+        "name": "Party Dojo Chapter 2",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Jisgsaw Joe Challenge",
                 "access_rules": [],
                 "visibility_rules": [],
                 "item_count": 1
@@ -47,10 +79,9 @@
         ],
         "map_locations": [
             {
-                "map": "Fusions",
-                "x": 2204,
-                "y": 1013,
-                "size": 6
+                "map": "castletownchapter4",
+                "x": 367,
+                "y": 633
             }
         ]
     }
