@@ -6,12 +6,12 @@
         "content": [
             {
                 "type": "array",
-                "orientation": "vertical",
+                "orientation": "horizontal",
                 "margin": "0,0",
                 "content": [
                     {
                         "type": "layout",
-                        "key": "shared_item_grid_vertical"
+                        "key": "shared_item_grid_horizontal"
                     }
                 ]
             }
