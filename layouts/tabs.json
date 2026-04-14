@@ -1,0 +1,30 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "CH4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "CH4"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "CH4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "CH4"
+                    ]
+                }
+            }
+        ]
+    }
+}
