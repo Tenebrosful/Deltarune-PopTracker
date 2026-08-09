@@ -1,563 +1,11 @@
 [
     {
-        "name": "manual",
-        "type": "toggle",
-        "img": "images/items/manual.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "manual"
-    },
-    {
-        "name": "skymantle",
-        "type": "toggle",
-        "img": "images/items/skymantle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "skymantle"
-    },
-    {
-        "name": "saber10",
-        "type": "toggle",
-        "img": "images/items/saber10.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "saber10"
-    },
-    {
-        "name": "safetyvest",
-        "type": "toggle",
-        "img": "images/items/safetyvest.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "safetyvest"
-    },
-    {
-        "name": "tensionbit",
-        "type": "toggle",
-        "img": "images/items/tensionbit.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tensionbit"
-    },
-    {
-        "name": "progressivenoelleweapons",
-        "type": "toggle",
-        "img": "images/items/progressivenoelleweapons.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressivenoelleweapons"
-    },
-    {
-        "name": "topcake",
-        "type": "toggle",
-        "img": "images/items/topcake.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "topcake"
-    },
-    {
         "name": "freezering",
         "type": "toggle",
         "img": "images/items/freezering.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "freezering"
-    },
-    {
-        "name": "ragger",
-        "type": "toggle",
-        "img": "images/items/ragger.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ragger"
-    },
-    {
-        "name": "tensionbow",
-        "type": "toggle",
-        "img": "images/items/tensionbow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tensionbow"
-    },
-    {
-        "name": "mechasaber",
-        "type": "toggle",
-        "img": "images/items/mechasaber.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mechasaber"
-    },
-    {
-        "name": "silvercard",
-        "type": "toggle",
-        "img": "images/items/silvercard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silvercard"
-    },
-    {
-        "name": "1point",
-        "type": "toggle",
-        "img": "images/items/1point.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "1point"
-    },
-    {
-        "name": "dicebracelet",
-        "type": "toggle",
-        "img": "images/items/dicebracelet.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dicebracelet"
-    },
-    {
-        "name": "combinationlockdigit",
-        "type": "toggle",
-        "img": "images/items/combinationlockdigit.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "combinationlockdigit"
-    },
-    {
-        "name": "ralseitea",
-        "type": "toggle",
-        "img": "images/items/ralseitea.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ralseitea"
-    },
-    {
-        "name": "javacookie",
-        "type": "toggle",
-        "img": "images/items/javacookie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "javacookie"
-    },
-    {
-        "name": "chapter3unlock",
-        "type": "toggle",
-        "img": "images/items/chapter3unlock.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chapter3unlock"
-    },
-    {
-        "name": "dogdollar",
-        "type": "toggle",
-        "img": "images/items/dogdollar.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dogdollar"
-    },
-    {
-        "name": "glowshard",
-        "type": "toggle",
-        "img": "images/items/glowshard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "glowshard"
-    },
-    {
-        "name": "shelterkey",
-        "type": "toggle",
-        "img": "images/items/shelterkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shelterkey"
-    },
-    {
-        "name": "powerband",
-        "type": "toggle",
-        "img": "images/items/powerband.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "powerband"
-    },
-    {
-        "name": "brokenkeya",
-        "type": "toggle",
-        "img": "images/items/brokenkeya.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brokenkeya"
-    },
-    {
-        "name": "s.poison",
-        "type": "toggle",
-        "img": "images/items/s.poison.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "s.poison"
-    },
-    {
-        "name": "blackshard",
-        "type": "toggle",
-        "img": "images/items/blackshard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blackshard"
-    },
-    {
-        "name": "susietea",
-        "type": "toggle",
-        "img": "images/items/susietea.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "susietea"
-    },
-    {
-        "name": "board2cartridge",
-        "type": "toggle",
-        "img": "images/items/board2cartridge.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "board2cartridge"
-    },
-    {
-        "name": "s/r/n-action",
-        "type": "toggle",
-        "img": "images/items/s/r/n-action.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "s/r/n-action"
-    },
-    {
-        "name": "goldwidow",
-        "type": "toggle",
-        "img": "images/items/goldwidow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "goldwidow"
-    },
-    {
-        "name": "ch3egg",
-        "type": "toggle",
-        "img": "images/items/ch3egg.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ch3egg"
-    },
-    {
-        "name": "pinkribbon",
-        "type": "toggle",
-        "img": "images/items/pinkribbon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pinkribbon"
-    },
-    {
-        "name": "chainmail",
-        "type": "toggle",
-        "img": "images/items/chainmail.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chainmail"
-    },
-    {
-        "name": "10points",
-        "type": "toggle",
-        "img": "images/items/10points.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "10points"
-    },
-    {
-        "name": "120points",
-        "type": "toggle",
-        "img": "images/items/120points.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "120points"
-    },
-    {
-        "name": "darkcandy",
-        "type": "toggle",
-        "img": "images/items/darkcandy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "darkcandy"
-    },
-    {
-        "name": "1darkdollar",
-        "type": "toggle",
-        "img": "images/items/1darkdollar.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "1darkdollar"
-    },
-    {
-        "name": "spookysword",
-        "type": "toggle",
-        "img": "images/items/spookysword.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "spookysword"
-    },
-    {
-        "name": "winglade",
-        "type": "toggle",
-        "img": "images/items/winglade.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "winglade"
-    },
-    {
-        "name": "50points",
-        "type": "toggle",
-        "img": "images/items/50points.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "50points"
-    },
-    {
-        "name": "tvslop",
-        "type": "toggle",
-        "img": "images/items/tvslop.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tvslop"
-    },
-    {
-        "name": "darkgoldband",
-        "type": "toggle",
-        "img": "images/items/darkgoldband.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "darkgoldband"
-    },
-    {
-        "name": "thornring",
-        "type": "toggle",
-        "img": "images/items/thornring.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "thornring"
-    },
-    {
-        "name": "smile",
-        "type": "toggle",
-        "img": "images/items/smile.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smile"
-    },
-    {
-        "name": "b.shotbowtie",
-        "type": "toggle",
-        "img": "images/items/b.shotbowtie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "b.shotbowtie"
-    },
-    {
-        "name": "susie",
-        "type": "toggle",
-        "img": "images/items/susie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "susie"
-    },
-    {
-        "name": "spincake",
-        "type": "toggle",
-        "img": "images/items/spincake.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "spincake"
-    },
-    {
-        "name": "cdbagel",
-        "type": "toggle",
-        "img": "images/items/cdbagel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cdbagel"
-    },
-    {
-        "name": "250darkdollars",
-        "type": "toggle",
-        "img": "images/items/250darkdollars.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "250darkdollars"
-    },
-    {
-        "name": "tripticket",
-        "type": "toggle",
-        "img": "images/items/tripticket.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tripticket"
-    },
-    {
-        "name": "castlemoss",
-        "type": "toggle",
-        "img": "images/items/castlemoss.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "castlemoss"
-    },
-    {
-        "name": "kristea",
-        "type": "toggle",
-        "img": "images/items/kristea.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "kristea"
-    },
-    {
-        "name": "sacredmoss",
-        "type": "toggle",
-        "img": "images/items/sacredmoss.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sacredmoss"
-    },
-    {
-        "name": "chocdiamond",
-        "type": "toggle",
-        "img": "images/items/chocdiamond.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chocdiamond"
-    },
-    {
-        "name": "keygen2segment",
-        "type": "toggle",
-        "img": "images/items/keygen2segment.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "keygen2segment"
-    },
-    {
-        "name": "tvdinner",
-        "type": "toggle",
-        "img": "images/items/tvdinner.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tvdinner"
-    },
-    {
-        "name": "dd-burger",
-        "type": "toggle",
-        "img": "images/items/dd-burger.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dd-burger"
-    },
-    {
-        "name": "jigsawjoeslifesavings",
-        "type": "toggle",
-        "img": "images/items/jigsawjoeslifesavings.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "jigsawjoeslifesavings"
-    },
-    {
-        "name": "chapter4unlock",
-        "type": "toggle",
-        "img": "images/items/chapter4unlock.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chapter4unlock"
-    },
-    {
-        "name": "ch1egg",
-        "type": "toggle",
-        "img": "images/items/ch1egg.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ch1egg"
-    },
-    {
-        "name": "citymoss",
-        "type": "toggle",
-        "img": "images/items/citymoss.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "citymoss"
-    },
-    {
-        "name": "rhapsotea",
-        "type": "toggle",
-        "img": "images/items/rhapsotea.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rhapsotea"
-    },
-    {
-        "name": "40darkdollars",
-        "type": "toggle",
-        "img": "images/items/40darkdollars.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "40darkdollars"
-    },
-    {
-        "name": "cheerscarf",
-        "type": "toggle",
-        "img": "images/items/cheerscarf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cheerscarf"
-    },
-    {
-        "name": "20darkdollars",
-        "type": "toggle",
-        "img": "images/items/20darkdollars.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "20darkdollars"
-    },
-    {
-        "name": "twistedswd",
-        "type": "toggle",
-        "img": "images/items/twistedswd.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "twistedswd"
-    },
-    {
-        "name": "trefoil",
-        "type": "toggle",
-        "img": "images/items/trefoil.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "trefoil"
-    },
-    {
-        "name": "bounceblade",
-        "type": "toggle",
-        "img": "images/items/bounceblade.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bounceblade"
-    },
-    {
-        "name": "brokenkeyb",
-        "type": "toggle",
-        "img": "images/items/brokenkeyb.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brokenkeyb"
-    },
-    {
-        "name": "80darkdollars",
-        "type": "toggle",
-        "img": "images/items/80darkdollars.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "80darkdollars"
-    },
-    {
-        "name": "mysticband",
-        "type": "toggle",
-        "img": "images/items/mysticband.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mysticband"
     },
     {
         "name": "500points",
@@ -568,132 +16,20 @@
         "codes": "500points"
     },
     {
-        "name": "clubssandwich",
+        "name": "brokencake(consumable)",
         "type": "toggle",
-        "img": "images/items/clubssandwich.png",
+        "img": "images/items/brokencake(consumable).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "clubssandwich"
+        "codes": "brokencake(consumable)"
     },
     {
-        "name": "chapter1unlock",
+        "name": "pinkribbon",
         "type": "toggle",
-        "img": "images/items/chapter1unlock.png",
+        "img": "images/items/pinkribbon.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "chapter1unlock"
-    },
-    {
-        "name": "deluxedinner",
-        "type": "toggle",
-        "img": "images/items/deluxedinner.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "deluxedinner"
-    },
-    {
-        "name": "shadowcrystal",
-        "type": "toggle",
-        "img": "images/items/shadowcrystal.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shadowcrystal"
-    },
-    {
-        "name": "twinribbon",
-        "type": "toggle",
-        "img": "images/items/twinribbon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "twinribbon"
-    },
-    {
-        "name": "fiberscarf",
-        "type": "toggle",
-        "img": "images/items/fiberscarf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fiberscarf"
-    },
-    {
-        "name": "king-shapedkeypiece",
-        "type": "toggle",
-        "img": "images/items/king-shapedkeypiece.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "king-shapedkeypiece"
-    },
-    {
-        "name": "ragger2",
-        "type": "toggle",
-        "img": "images/items/ragger2.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ragger2"
-    },
-    {
-        "name": "heartsdonut",
-        "type": "toggle",
-        "img": "images/items/heartsdonut.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "heartsdonut"
-    },
-    {
-        "name": "progressivesusieweapons",
-        "type": "toggle",
-        "img": "images/items/progressivesusieweapons.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressivesusieweapons"
-    },
-    {
-        "name": "2points",
-        "type": "toggle",
-        "img": "images/items/2points.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "2points"
-    },
-    {
-        "name": "everybodyweapon",
-        "type": "toggle",
-        "img": "images/items/everybodyweapon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "everybodyweapon"
-    },
-    {
-        "name": "spikeband",
-        "type": "toggle",
-        "img": "images/items/spikeband.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "spikeband"
-    },
-    {
-        "name": "ambercard",
-        "type": "toggle",
-        "img": "images/items/ambercard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ambercard"
-    },
-    {
-        "name": "mannequin(consumable)",
-        "type": "toggle",
-        "img": "images/items/mannequin(consumable).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mannequin(consumable)"
-    },
-    {
-        "name": "claimbclaws",
-        "type": "toggle",
-        "img": "images/items/claimbclaws.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "claimbclaws"
+        "codes": "pinkribbon"
     },
     {
         "name": "favsandwich",
@@ -704,78 +40,6 @@
         "codes": "favsandwich"
     },
     {
-        "name": "braveax",
-        "type": "toggle",
-        "img": "images/items/braveax.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "braveax"
-    },
-    {
-        "name": "puppetscarf",
-        "type": "toggle",
-        "img": "images/items/puppetscarf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "puppetscarf"
-    },
-    {
-        "name": "revivemint",
-        "type": "toggle",
-        "img": "images/items/revivemint.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "revivemint"
-    },
-    {
-        "name": "tensiongem",
-        "type": "toggle",
-        "img": "images/items/tensiongem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tensiongem"
-    },
-    {
-        "name": "mousetoken",
-        "type": "toggle",
-        "img": "images/items/mousetoken.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mousetoken"
-    },
-    {
-        "name": "whiteribbon",
-        "type": "toggle",
-        "img": "images/items/whiteribbon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "whiteribbon"
-    },
-    {
-        "name": "purecrystal",
-        "type": "toggle",
-        "img": "images/items/purecrystal.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "purecrystal"
-    },
-    {
-        "name": "absorbax",
-        "type": "toggle",
-        "img": "images/items/absorbax.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "absorbax"
-    },
-    {
-        "name": "castlekey",
-        "type": "toggle",
-        "img": "images/items/castlekey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "castlekey"
-    },
-    {
         "name": "glowwrist",
         "type": "toggle",
         "img": "images/items/glowwrist.png",
@@ -784,220 +48,28 @@
         "codes": "glowwrist"
     },
     {
-        "name": "lancercookie",
+        "name": "combinationlockdigit",
         "type": "toggle",
-        "img": "images/items/lancercookie.png",
+        "img": "images/items/combinationlockdigit.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "lancercookie"
+        "codes": "combinationlockdigit"
     },
     {
-        "name": "dealmaker",
+        "name": "40darkdollars",
         "type": "toggle",
-        "img": "images/items/dealmaker.png",
+        "img": "images/items/40darkdollars.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "dealmaker"
+        "codes": "40darkdollars"
     },
     {
-        "name": "frayedbowtie",
+        "name": "goldwidow",
         "type": "toggle",
-        "img": "images/items/frayedbowtie.png",
+        "img": "images/items/goldwidow.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "frayedbowtie"
-    },
-    {
-        "name": "doorkey",
-        "type": "toggle",
-        "img": "images/items/doorkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "doorkey"
-    },
-    {
-        "name": "blueribbon",
-        "type": "toggle",
-        "img": "images/items/blueribbon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blueribbon"
-    },
-    {
-        "name": "bakesaleticket",
-        "type": "toggle",
-        "img": "images/items/bakesaleticket.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bakesaleticket"
-    },
-    {
-        "name": "tensionmax",
-        "type": "toggle",
-        "img": "images/items/tensionmax.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tensionmax"
-    },
-    {
-        "name": "whatinterestingbehavior.",
-        "type": "toggle",
-        "img": "images/items/whatinterestingbehavior..png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "whatinterestingbehavior."
-    },
-    {
-        "name": "500darkdollars",
-        "type": "toggle",
-        "img": "images/items/500darkdollars.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "500darkdollars"
-    },
-    {
-        "name": "brokencake",
-        "type": "toggle",
-        "img": "images/items/brokencake.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brokencake"
-    },
-    {
-        "name": "jevilstail",
-        "type": "toggle",
-        "img": "images/items/jevilstail.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "jevilstail"
-    },
-    {
-        "name": "100darkdollars",
-        "type": "toggle",
-        "img": "images/items/100darkdollars.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "100darkdollars"
-    },
-    {
-        "name": "progressivekrisweapons",
-        "type": "toggle",
-        "img": "images/items/progressivekrisweapons.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressivekrisweapons"
-    },
-    {
-        "name": "noelle",
-        "type": "toggle",
-        "img": "images/items/noelle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "noelle"
-    },
-    {
-        "name": "brokenkeyc",
-        "type": "toggle",
-        "img": "images/items/brokenkeyc.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brokenkeyc"
-    },
-    {
-        "name": "oddcontroller",
-        "type": "toggle",
-        "img": "images/items/oddcontroller.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "oddcontroller"
-    },
-    {
-        "name": "keygen",
-        "type": "toggle",
-        "img": "images/items/keygen.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "keygen"
-    },
-    {
-        "name": "royalpin",
-        "type": "toggle",
-        "img": "images/items/royalpin.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "royalpin"
-    },
-    {
-        "name": "rouxlsroux",
-        "type": "toggle",
-        "img": "images/items/rouxlsroux.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rouxlsroux"
-    },
-    {
-        "name": "gingerguard",
-        "type": "toggle",
-        "img": "images/items/gingerguard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gingerguard"
-    },
-    {
-        "name": "ch2egg",
-        "type": "toggle",
-        "img": "images/items/ch2egg.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ch2egg"
-    },
-    {
-        "name": "devilsknife",
-        "type": "toggle",
-        "img": "images/items/devilsknife.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "devilsknife"
-    },
-    {
-        "name": "lodestone",
-        "type": "toggle",
-        "img": "images/items/lodestone.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lodestone"
-    },
-    {
-        "name": "ironshackle",
-        "type": "toggle",
-        "img": "images/items/ironshackle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ironshackle"
-    },
-    {
-        "name": "daintyscarf",
-        "type": "toggle",
-        "img": "images/items/daintyscarf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "daintyscarf"
-    },
-    {
-        "name": "vippass",
-        "type": "toggle",
-        "img": "images/items/vippass.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vippass"
-    },
-    {
-        "name": "mannequin",
-        "type": "toggle",
-        "img": "images/items/mannequin.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mannequin"
+        "codes": "goldwidow"
     },
     {
         "name": "300points",
@@ -1008,196 +80,20 @@
         "codes": "300points"
     },
     {
-        "name": "butjuice",
+        "name": "20darkdollars",
         "type": "toggle",
-        "img": "images/items/butjuice.png",
+        "img": "images/items/20darkdollars.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "butjuice"
+        "codes": "20darkdollars"
     },
     {
-        "name": "progressiveralseiweapons",
+        "name": "120points",
         "type": "toggle",
-        "img": "images/items/progressiveralseiweapons.png",
+        "img": "images/items/120points.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressiveralseiweapons"
-    },
-    {
-        "name": "scarfmark",
-        "type": "toggle",
-        "img": "images/items/scarfmark.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "scarfmark"
-    },
-    {
-        "name": "tennatie",
-        "type": "toggle",
-        "img": "images/items/tennatie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tennatie"
-    },
-    {
-        "name": "gigasalad",
-        "type": "toggle",
-        "img": "images/items/gigasalad.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gigasalad"
-    },
-    {
-        "name": "spagetticode",
-        "type": "toggle",
-        "img": "images/items/spagetticode.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "spagetticode"
-    },
-    {
-        "name": "revivebrite",
-        "type": "toggle",
-        "img": "images/items/revivebrite.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "revivebrite"
-    },
-    {
-        "name": "ch4egg",
-        "type": "toggle",
-        "img": "images/items/ch4egg.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ch4egg"
-    },
-    {
-        "name": "brokencake(consumable)",
-        "type": "toggle",
-        "img": "images/items/brokencake(consumable).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brokencake(consumable)"
-    },
-    {
-        "name": "remotebattery",
-        "type": "toggle",
-        "img": "images/items/remotebattery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "remotebattery"
-    },
-    {
-        "name": "autoaxe",
-        "type": "toggle",
-        "img": "images/items/autoaxe.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "autoaxe"
-    },
-    {
-        "name": "ralsei",
-        "type": "toggle",
-        "img": "images/items/ralsei.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ralsei"
-    },
-    {
-        "name": "chapter2unlock",
-        "type": "toggle",
-        "img": "images/items/chapter2unlock.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chapter2unlock"
-    },
-    {
-        "name": "lightcandy",
-        "type": "toggle",
-        "img": "images/items/lightcandy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lightcandy"
-    },
-    {
-        "name": "emptydisk",
-        "type": "toggle",
-        "img": "images/items/emptydisk.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "emptydisk"
-    },
-    {
-        "name": "brokenswd",
-        "type": "toggle",
-        "img": "images/items/brokenswd.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brokenswd"
-    },
-    {
-        "name": "justiceaxe",
-        "type": "toggle",
-        "img": "images/items/justiceaxe.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "justiceaxe"
-    },
-    {
-        "name": "toxicaxe",
-        "type": "toggle",
-        "img": "images/items/toxicaxe.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "toxicaxe"
-    },
-    {
-        "name": "flexscarf",
-        "type": "toggle",
-        "img": "images/items/flexscarf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "flexscarf"
-    },
-    {
-        "name": "princessrbn",
-        "type": "toggle",
-        "img": "images/items/princessrbn.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "princessrbn"
-    },
-    {
-        "name": "boardmoss",
-        "type": "toggle",
-        "img": "images/items/boardmoss.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "boardmoss"
-    },
-    {
-        "name": "darkburger",
-        "type": "toggle",
-        "img": "images/items/darkburger.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "darkburger"
-    },
-    {
-        "name": "noelletea",
-        "type": "toggle",
-        "img": "images/items/noelletea.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "noelletea"
-    },
-    {
-        "name": "sheetmusic",
-        "type": "toggle",
-        "img": "images/items/sheetmusic.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sheetmusic"
+        "codes": "120points"
     },
     {
         "name": "execbuffet",
@@ -1208,12 +104,211 @@
         "codes": "execbuffet"
     },
     {
-        "name": "flatsoda",
+        "name": "ragger",
         "type": "toggle",
-        "img": "images/items/flatsoda.png",
+        "img": "images/items/ragger.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "flatsoda"
+        "codes": "ragger"
+    },
+    {
+        "name": "mousetoken",
+        "type": "toggle",
+        "img": "images/items/mousetoken.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mousetoken"
+    },
+    {
+        "name": "ch4egg",
+        "type": "toggle",
+        "img": "images/items/ch4egg.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch4egg"
+    },
+    {
+        "name": "absorbax",
+        "type": "toggle",
+        "img": "images/items/absorbax.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "absorbax"
+    },
+    {
+        "name": "emptydisk",
+        "type": "toggle",
+        "img": "images/items/default.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "emptydisk"
+    },
+    {
+        "name": "clubssandwich",
+        "type": "toggle",
+        "img": "images/items/clubssandwich.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clubssandwich"
+    },
+    {
+        "name": "skymantle",
+        "type": "toggle",
+        "img": "images/items/skymantle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skymantle"
+    },
+    {
+        "name": "king-shapedkeypiece",
+        "type": "consumable",
+        "img": "images/items/default.png",
+        "overlay_align": "right",
+        "codes": "king-shapedkeypiece"
+    },
+    {
+        "name": "justiceaxe",
+        "type": "toggle",
+        "img": "images/items/justiceaxe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "justiceaxe"
+    },
+    {
+        "name": "kristea",
+        "type": "toggle",
+        "img": "images/items/kristea.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kristea"
+    },
+    {
+        "name": "spincake",
+        "type": "toggle",
+        "img": "images/items/spincake.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spincake"
+    },
+    {
+        "name": "ch3egg",
+        "type": "toggle",
+        "img": "images/items/ch3egg.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch3egg"
+    },
+    {
+        "name": "princessrbn",
+        "type": "toggle",
+        "img": "images/items/princessrbn.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "princessrbn"
+    },
+    {
+        "name": "ch1egg",
+        "type": "toggle",
+        "img": "images/items/ch1egg.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch1egg"
+    },
+    {
+        "name": "gigasalad",
+        "type": "toggle",
+        "img": "images/items/gigasalad.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gigasalad"
+    },
+    {
+        "name": "twinribbon",
+        "type": "toggle",
+        "img": "images/items/twinribbon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twinribbon"
+    },
+    {
+        "name": "500darkdollars",
+        "type": "toggle",
+        "img": "images/items/500darkdollars.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "500darkdollars"
+    },
+    {
+        "name": "chainmail",
+        "type": "toggle",
+        "img": "images/items/chainmail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chainmail"
+    },
+    {
+        "name": "castlemoss",
+        "type": "toggle",
+        "img": "images/items/castlemoss.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castlemoss"
+    },
+    {
+        "name": "ch2egg",
+        "type": "toggle",
+        "img": "images/items/ch2egg.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ch2egg"
+    },
+    {
+        "name": "rhapsotea",
+        "type": "toggle",
+        "img": "images/items/rhapsotea.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rhapsotea"
+    },
+    {
+        "name": "flexscarf",
+        "type": "toggle",
+        "img": "images/items/flexscarf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flexscarf"
+    },
+    {
+        "name": "deluxedinner",
+        "type": "toggle",
+        "img": "images/items/deluxedinner.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "deluxedinner"
+    },
+    {
+        "name": "brokenswd",
+        "type": "toggle",
+        "img": "images/items/brokenswd.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokenswd"
+    },
+    {
+        "name": "mysticband",
+        "type": "toggle",
+        "img": "images/items/mysticband.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mysticband"
+    },
+    {
+        "name": "2points",
+        "type": "toggle",
+        "img": "images/items/2points.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "2points"
     },
     {
         "name": "spikeshackle",
@@ -1224,12 +319,12 @@
         "codes": "spikeshackle"
     },
     {
-        "name": "icekey",
+        "name": "darkcandy",
         "type": "toggle",
-        "img": "images/items/icekey.png",
+        "img": "images/items/darkcandy.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "icekey"
+        "codes": "darkcandy"
     },
     {
         "name": "kris",
@@ -1240,12 +335,43 @@
         "codes": "kris"
     },
     {
-        "name": "mansionreservation",
+        "name": "devilsknife",
         "type": "toggle",
-        "img": "images/items/mansionreservation.png",
+        "img": "images/items/devilsknife.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "mansionreservation"
+        "codes": "devilsknife"
+    },
+    {
+        "name": "fiberscarf",
+        "type": "toggle",
+        "img": "images/items/fiberscarf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fiberscarf"
+    },
+    {
+        "name": "blueribbon",
+        "type": "toggle",
+        "img": "images/items/blueribbon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blueribbon"
+    },
+    {
+        "name": "keygen2segment",
+        "type": "consumable",
+        "img": "images/items/default.png",
+        "overlay_align": "right",
+        "codes": "keygen2segment"
+    },
+    {
+        "name": "darkgoldband",
+        "type": "toggle",
+        "img": "images/items/darkgoldband.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "darkgoldband"
     },
     {
         "name": "bittertear",
@@ -1256,12 +382,100 @@
         "codes": "bittertear"
     },
     {
-        "name": "scarlixir",
+        "name": "jigsawjoeslifesavings",
         "type": "toggle",
-        "img": "images/items/scarlixir.png",
+        "img": "images/items/jigsawjoeslifesavings.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "scarlixir"
+        "codes": "jigsawjoeslifesavings"
+    },
+    {
+        "name": "lancercookie",
+        "type": "toggle",
+        "img": "images/items/lancercookie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lancercookie"
+    },
+    {
+        "name": "mechasaber",
+        "type": "toggle",
+        "img": "images/items/mechasaber.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mechasaber"
+    },
+    {
+        "name": "toxicaxe",
+        "type": "toggle",
+        "img": "images/items/toxicaxe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "toxicaxe"
+    },
+    {
+        "name": "shelterkey",
+        "type": "toggle",
+        "img": "images/items/default.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shelterkey"
+    },
+    {
+        "name": "80darkdollars",
+        "type": "toggle",
+        "img": "images/items/80darkdollars.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "80darkdollars"
+    },
+    {
+        "name": "progressiveralseiweapons",
+        "type": "toggle",
+        "img": "images/items/progressiveralseiweapons.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveralseiweapons"
+    },
+    {
+        "name": "dogdollar",
+        "type": "toggle",
+        "img": "images/items/dogdollar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dogdollar"
+    },
+    {
+        "name": "boardmoss",
+        "type": "toggle",
+        "img": "images/items/boardmoss.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boardmoss"
+    },
+    {
+        "name": "progressivenoelleweapons",
+        "type": "toggle",
+        "img": "images/items/progressivenoelleweapons.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivenoelleweapons"
+    },
+    {
+        "name": "50points",
+        "type": "toggle",
+        "img": "images/items/50points.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "50points"
+    },
+    {
+        "name": "whiteribbon",
+        "type": "toggle",
+        "img": "images/items/whiteribbon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whiteribbon"
     },
     {
         "name": "revivedust",
@@ -1272,12 +486,795 @@
         "codes": "revivedust"
     },
     {
+        "name": "puppetscarf",
+        "type": "toggle",
+        "img": "images/items/puppetscarf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "puppetscarf"
+    },
+    {
+        "name": "s/r/n-action",
+        "type": "toggle",
+        "img": "images/items/s/r/n-action.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "s/r/n-action"
+    },
+    {
+        "name": "spagetticode",
+        "type": "toggle",
+        "img": "images/items/spagetticode.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spagetticode"
+    },
+    {
+        "name": "cheerscarf",
+        "type": "toggle",
+        "img": "images/items/cheerscarf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cheerscarf"
+    },
+    {
+        "name": "ralseitea",
+        "type": "toggle",
+        "img": "images/items/ralseitea.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ralseitea"
+    },
+    {
+        "name": "spikeband",
+        "type": "toggle",
+        "img": "images/items/spikeband.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spikeband"
+    },
+    {
+        "name": "chapter1unlock",
+        "type": "toggle",
+        "img": "images/items/chapter1unlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter1unlock"
+    },
+    {
+        "name": "javacookie",
+        "type": "toggle",
+        "img": "images/items/javacookie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "javacookie"
+    },
+    {
+        "name": "noelle",
+        "type": "toggle",
+        "img": "images/items/noelle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "noelle"
+    },
+    {
+        "name": "s.poison",
+        "type": "toggle",
+        "img": "images/items/s.poison.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "s.poison"
+    },
+    {
+        "name": "ambercard",
+        "type": "toggle",
+        "img": "images/items/ambercard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ambercard"
+    },
+    {
+        "name": "safetyvest",
+        "type": "toggle",
+        "img": "images/items/safetyvest.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "safetyvest"
+    },
+    {
+        "name": "frayedbowtie",
+        "type": "toggle",
+        "img": "images/items/frayedbowtie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frayedbowtie"
+    },
+    {
+        "name": "vippass",
+        "type": "toggle",
+        "img": "images/items/vippass.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vippass"
+    },
+    {
+        "name": "250darkdollars",
+        "type": "toggle",
+        "img": "images/items/250darkdollars.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "250darkdollars"
+    },
+    {
+        "name": "flatsoda",
+        "type": "toggle",
+        "img": "images/items/flatsoda.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flatsoda"
+    },
+    {
+        "name": "keygen",
+        "type": "toggle",
+        "img": "images/items/default.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "keygen"
+    },
+    {
+        "name": "gingerguard",
+        "type": "toggle",
+        "img": "images/items/gingerguard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gingerguard"
+    },
+    {
+        "name": "brokenkeyc",
+        "type": "toggle",
+        "img": "images/items/brokenkeyc.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokenkeyc"
+    },
+    {
+        "name": "susie",
+        "type": "toggle",
+        "img": "images/items/susie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "susie"
+    },
+    {
+        "name": "claimbclaws",
+        "type": "toggle",
+        "img": "images/items/claimbclaws.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "claimbclaws"
+    },
+    {
+        "name": "ironshackle",
+        "type": "toggle",
+        "img": "images/items/ironshackle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ironshackle"
+    },
+    {
+        "name": "butjuice",
+        "type": "toggle",
+        "img": "images/items/butjuice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "butjuice"
+    },
+    {
+        "name": "silvercard",
+        "type": "toggle",
+        "img": "images/items/silvercard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silvercard"
+    },
+    {
+        "name": "1darkdollar",
+        "type": "toggle",
+        "img": "images/items/1darkdollar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "1darkdollar"
+    },
+    {
+        "name": "darkburger",
+        "type": "toggle",
+        "img": "images/items/darkburger.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "darkburger"
+    },
+    {
+        "name": "manual",
+        "type": "toggle",
+        "img": "images/items/manual.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "manual"
+    },
+    {
+        "name": "shadowcrystal",
+        "type": "toggle",
+        "img": "images/items/shadowcrystal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadowcrystal"
+    },
+    {
+        "name": "bounceblade",
+        "type": "toggle",
+        "img": "images/items/bounceblade.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bounceblade"
+    },
+    {
+        "name": "scarlixir",
+        "type": "toggle",
+        "img": "images/items/scarlixir.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scarlixir"
+    },
+    {
+        "name": "twistedswd",
+        "type": "toggle",
+        "img": "images/items/twistedswd.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twistedswd"
+    },
+    {
+        "name": "susietea",
+        "type": "toggle",
+        "img": "images/items/susietea.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "susietea"
+    },
+    {
+        "name": "brokencake",
+        "type": "toggle",
+        "img": "images/items/brokencake.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokencake"
+    },
+    {
+        "name": "trefoil",
+        "type": "toggle",
+        "img": "images/items/trefoil.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trefoil"
+    },
+    {
+        "name": "topcake",
+        "type": "toggle",
+        "img": "images/items/topcake.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "topcake"
+    },
+    {
+        "name": "royalpin",
+        "type": "toggle",
+        "img": "images/items/royalpin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "royalpin"
+    },
+    {
+        "name": "citymoss",
+        "type": "toggle",
+        "img": "images/items/citymoss.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "citymoss"
+    },
+    {
+        "name": "tennatie",
+        "type": "toggle",
+        "img": "images/items/tennatie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tennatie"
+    },
+    {
+        "name": "castlekey",
+        "type": "toggle",
+        "img": "images/items/castlekey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castlekey"
+    },
+    {
+        "name": "brokenkeyb",
+        "type": "toggle",
+        "img": "images/items/brokenkeyb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokenkeyb"
+    },
+    {
+        "name": "winglade",
+        "type": "toggle",
+        "img": "images/items/winglade.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "winglade"
+    },
+    {
+        "name": "rouxlsroux",
+        "type": "toggle",
+        "img": "images/items/rouxlsroux.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rouxlsroux"
+    },
+    {
+        "name": "chocdiamond",
+        "type": "toggle",
+        "img": "images/items/chocdiamond.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chocdiamond"
+    },
+    {
+        "name": "icekey",
+        "type": "toggle",
+        "img": "images/items/default.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icekey"
+    },
+    {
+        "name": "tensiongem",
+        "type": "toggle",
+        "img": "images/items/tensiongem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tensiongem"
+    },
+    {
+        "name": "brokenkeya",
+        "type": "toggle",
+        "img": "images/items/brokenkeya.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokenkeya"
+    },
+    {
+        "name": "mansionreservation",
+        "type": "toggle",
+        "img": "images/items/mansionreservation.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mansionreservation"
+    },
+    {
+        "name": "autoaxe",
+        "type": "toggle",
+        "img": "images/items/autoaxe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "autoaxe"
+    },
+    {
+        "name": "sacredmoss",
+        "type": "toggle",
+        "img": "images/items/sacredmoss.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sacredmoss"
+    },
+    {
+        "name": "ralsei",
+        "type": "toggle",
+        "img": "images/items/ralsei.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ralsei"
+    },
+    {
+        "name": "heartsdonut",
+        "type": "toggle",
+        "img": "images/items/heartsdonut.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heartsdonut"
+    },
+    {
+        "name": "dealmaker",
+        "type": "toggle",
+        "img": "images/items/dealmaker.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dealmaker"
+    },
+    {
+        "name": "doorkey",
+        "type": "toggle",
+        "img": "images/items/default.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "doorkey"
+    },
+    {
+        "name": "tensionbit",
+        "type": "toggle",
+        "img": "images/items/tensionbit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tensionbit"
+    },
+    {
+        "name": "purecrystal",
+        "type": "toggle",
+        "img": "images/items/purecrystal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purecrystal"
+    },
+    {
+        "name": "sheetmusic",
+        "type": "toggle",
+        "img": "images/items/sheetmusic.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sheetmusic"
+    },
+    {
+        "name": "10points",
+        "type": "toggle",
+        "img": "images/items/10points.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "10points"
+    },
+    {
+        "name": "100darkdollars",
+        "type": "toggle",
+        "img": "images/items/100darkdollars.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "100darkdollars"
+    },
+    {
+        "name": "mannequin(consumable)",
+        "type": "toggle",
+        "img": "images/items/mannequin(consumable).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mannequin(consumable)"
+    },
+    {
+        "name": "noelletea",
+        "type": "toggle",
+        "img": "images/items/noelletea.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "noelletea"
+    },
+    {
+        "name": "chapter2unlock",
+        "type": "toggle",
+        "img": "images/items/chapter2unlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter2unlock"
+    },
+    {
+        "name": "whatinterestingbehavior.",
+        "type": "toggle",
+        "img": "images/items/whatinterestingbehavior..png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whatinterestingbehavior."
+    },
+    {
+        "name": "dd-burger",
+        "type": "toggle",
+        "img": "images/items/dd-burger.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dd-burger"
+    },
+    {
+        "name": "board2cartridge",
+        "type": "toggle",
+        "img": "images/items/board2cartridge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "board2cartridge"
+    },
+    {
+        "name": "blackshard",
+        "type": "toggle",
+        "img": "images/items/blackshard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackshard"
+    },
+    {
+        "name": "progressivekrisweapons",
+        "type": "toggle",
+        "img": "images/items/progressivekrisweapons.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivekrisweapons"
+    },
+    {
+        "name": "revivemint",
+        "type": "toggle",
+        "img": "images/items/revivemint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "revivemint"
+    },
+    {
+        "name": "oddcontroller",
+        "type": "toggle",
+        "img": "images/items/oddcontroller.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "oddcontroller"
+    },
+    {
+        "name": "mannequin",
+        "type": "toggle",
+        "img": "images/items/mannequin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mannequin"
+    },
+    {
+        "name": "saber10",
+        "type": "toggle",
+        "img": "images/items/saber10.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saber10"
+    },
+    {
+        "name": "daintyscarf",
+        "type": "toggle",
+        "img": "images/items/daintyscarf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "daintyscarf"
+    },
+    {
+        "name": "braveax",
+        "type": "toggle",
+        "img": "images/items/braveax.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "braveax"
+    },
+    {
+        "name": "revivebrite",
+        "type": "toggle",
+        "img": "images/items/revivebrite.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "revivebrite"
+    },
+    {
+        "name": "glowshard",
+        "type": "toggle",
+        "img": "images/items/glowshard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glowshard"
+    },
+    {
+        "name": "dicebracelet",
+        "type": "toggle",
+        "img": "images/items/dicebracelet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dicebracelet"
+    },
+    {
+        "name": "ragger2",
+        "type": "toggle",
+        "img": "images/items/ragger2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ragger2"
+    },
+    {
+        "name": "spookysword",
+        "type": "toggle",
+        "img": "images/items/spookysword.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spookysword"
+    },
+    {
+        "name": "progressivesusieweapons",
+        "type": "toggle",
+        "img": "images/items/progressivesusieweapons.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivesusieweapons"
+    },
+    {
+        "name": "cdbagel",
+        "type": "toggle",
+        "img": "images/items/cdbagel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cdbagel"
+    },
+    {
+        "name": "lodestone",
+        "type": "toggle",
+        "img": "images/items/lodestone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lodestone"
+    },
+    {
+        "name": "tripticket",
+        "type": "toggle",
+        "img": "images/items/tripticket.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tripticket"
+    },
+    {
+        "name": "chapter4unlock",
+        "type": "toggle",
+        "img": "images/items/chapter4unlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter4unlock"
+    },
+    {
+        "name": "lightcandy",
+        "type": "toggle",
+        "img": "images/items/lightcandy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightcandy"
+    },
+    {
+        "name": "tvslop",
+        "type": "toggle",
+        "img": "images/items/tvslop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tvslop"
+    },
+    {
+        "name": "tensionmax",
+        "type": "toggle",
+        "img": "images/items/tensionmax.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tensionmax"
+    },
+    {
+        "name": "remotebattery",
+        "type": "consumable",
+        "img": "images/items/default.png",
+        "overlay_align": "right",
+        "codes": "remotebattery"
+    },
+    {
+        "name": "chapter3unlock",
+        "type": "toggle",
+        "img": "images/items/chapter3unlock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter3unlock"
+    },
+    {
+        "name": "tensionbow",
+        "type": "toggle",
+        "img": "images/items/tensionbow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tensionbow"
+    },
+    {
+        "name": "tvdinner",
+        "type": "toggle",
+        "img": "images/items/tvdinner.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tvdinner"
+    },
+    {
         "name": "shadowmantle",
         "type": "toggle",
-        "img": "images/items/shadowmantle.png",
+        "img": "images/items/default.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "shadowmantle"
+    },
+    {
+        "name": "b.shotbowtie",
+        "type": "toggle",
+        "img": "images/items/b.shotbowtie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "b.shotbowtie"
+    },
+    {
+        "name": "thornring",
+        "type": "toggle",
+        "img": "images/items/default.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thornring"
+    },
+    {
+        "name": "jevilstail",
+        "type": "toggle",
+        "img": "images/items/jevilstail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jevilstail"
+    },
+    {
+        "name": "bakesaleticket",
+        "type": "toggle",
+        "img": "images/items/bakesaleticket.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bakesaleticket"
+    },
+    {
+        "name": "1point",
+        "type": "toggle",
+        "img": "images/items/1point.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "1point"
+    },
+    {
+        "name": "scarfmark",
+        "type": "toggle",
+        "img": "images/items/scarfmark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scarfmark"
+    },
+    {
+        "name": "smile",
+        "type": "toggle",
+        "img": "images/items/smile.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smile"
+    },
+    {
+        "name": "powerband",
+        "type": "toggle",
+        "img": "images/items/powerband.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "powerband"
+    },
+    {
+        "name": "everybodyweapon",
+        "type": "toggle",
+        "img": "images/items/everybodyweapon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "everybodyweapon"
     },
     {
         "name": "update",

@@ -1,7 +1,7 @@
 {
-    "shared_item_grid_horizontal": {
+    "story_related_horizontal": {
         "type": "array",
-        "orientation": "vertical",
+        "orientation": "horizontal",
         "margin": "0,0",
         "content": [
             {
@@ -15,8 +15,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 36,
-                        "item_width": 36,
+                        "item_height": 72,
+                        "item_width": 72,
                         "rows": [
                             [
                                 "chapter1unlock",
@@ -25,38 +25,82 @@
                                 "brokencake",
                                 "topcake",
                                 "castlekey",
-                                "doorkey",
                                 "brokenkeya",
                                 "brokenkeyb",
-                                "brokenkeyc"
+                                "brokenkeyc",
+                                "doorkey",
+                                "king-shapedkeypiece"
                             ],
                             [
                                 "chapter2unlock",
                                 "safetyvest",
+                                "thornring",
                                 "mansionreservation",
-                                "emptydisk"
+                                "keygen",
+                                "emptydisk",
+                                "keygen2segment"
                             ],
                             [
                                 "chapter3unlock",
                                 "board2cartridge",
-                                "vippass",
                                 "oddcontroller",
                                 "icekey",
                                 "shelterkey",
+                                "vippass",
+                                "shadowmantle",
                                 "remotebattery"
                             ],
                             [
                                 "chapter4unlock",
-                                "claimbclaws"
-                            ],
+                                "claimbclaws",
+                                "sheetmusic",
+                                "combinationlockdigit"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "story_related_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_height": 72,
+                        "item_width": 72,
+                        "rows": [
                             [
-                                "ironshackle",
-                                "whiteribbon",
-                                "pinkribbon",
-                                "glowwrist",
-                                "bshotbowtie",
-                                "purecrystal",
-                                "thornring"
+                                "chapter1unlock",
+                                "bakesaleticket",
+                                "brokencake",
+                                "topcake",
+                                "castlekey",
+                                "brokenkeya",
+                                "brokenkeyb",
+                                "brokenkeyc",
+                                "doorkey",
+                                "king-shapedkeypiece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_height": 72,
+                        "item_width": 72,
+                        "rows": [
+                            [
+                                "chapter2unlock",
+                                "safetyvest",
+                                "mansionreservation",
+                                "keygen",
+                                "emptydisk",
+                                "keygen2segment"
                             ]
                         ]
                     }
